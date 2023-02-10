@@ -1,0 +1,5 @@
+SQLAlchemy==2.0.3
+Kivy==2.1.0
+PyMySQL==1.0.2
+mysql-connector-python==8.0.32
+pandas==1.5.3
